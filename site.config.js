@@ -12,9 +12,9 @@ export default {
   author: 'kiryca',
 
   // open graph metadata (optional)
-  description: 'Example site description',
-  socialImageTitle: 'Transitive Bullshit',
-  socialImageSubtitle: 'Hello World! 👋',
+  description: '编织希冀，寄于歌声',
+  socialImageTitle: '希織歌',
+  socialImageSubtitle: 'キリカ',
 
   // social usernames (optional)
   // default notion icon and cover images for site-wide consistency (optional)
